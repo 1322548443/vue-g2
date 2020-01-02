@@ -4,9 +4,7 @@
 [![](https://img.shields.io/npm/v/vue-g2.svg)](https://www.npmjs.com/package/vue-g2)
 ![](https://img.shields.io/bundlephobia/min/vue-g2.svg)
 ![](https://img.shields.io/npm/dt/vue-g2.svg)
-[![](https://img.shields.io/badge/-详细文档-green.svg)](https://wupeiwen.github.io/vue-g2)
 
-# 使用方式
 ## NPM方式
 ------
 ### 1.安装依赖
